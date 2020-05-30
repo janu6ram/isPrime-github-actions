@@ -1,0 +1,5 @@
+name: 'isPrime action'
+description: 'Check given number is not prime'
+runs:
+  using: 'node12'
+  main: 'isPrime.js'
